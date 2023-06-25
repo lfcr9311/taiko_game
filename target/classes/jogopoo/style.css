@@ -1,0 +1,12 @@
+#labelVida{
+    -fx-text-fill: #fff;
+    -fx-font-family: 'Oswald', sans-serif;
+}
+#labelAtaque{
+    -fx-text-fill: #fff;
+    -fx-font-family: 'Oswald', sans-serif;
+}
+#ganhou{
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-font-family: 'Oswald', sans-serif;
+}
